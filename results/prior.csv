@@ -1,0 +1,4 @@
+device,target_tok_s,draft_tok_s,c,verify_ms,ideal_speedup_a0.7,ideal_speedup_a0.8,ideal_speedup_a0.9,break_even_ar128
+Galaxy S26 (8 Elite Gen 5),41.7,87.8,0.475,41.1,1.153,1.251,1.418,0.837
+Galaxy S25 (8 Elite),41.6,80.9,0.514,43.3,1.123,1.203,1.353,0.87
+Snapdragon X Elite CRD,36.1,67.4,0.536,52.5,1.107,1.178,1.319,0.891

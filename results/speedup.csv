@@ -1,0 +1,5 @@
+device,calibration,before_tok_s,after_a_tok_s,k_a,after_b_tok_s,k_b,speedup,best_k,break_even_a,bm25_ms,ttft_before_s,ttft_after_s,total_before_s,total_after_s
+Samsung Galaxy S25 (Family),1.2298,36.0,42.78,6,,,1.188,6,0.92,1.33,0.449,0.76,3.918,3.678
+Samsung Galaxy S26 (Family),1.2102,39.9,51.54,6,,,1.292,6,0.873,1.33,0.368,0.606,3.497,3.029
+Snapdragon X Elite CRD,0.9656,31.5,32.79,6,,,1.041,6,0.969,1.33,0.6,1.016,4.564,4.823
+Snapdragon X Plus 8-Core CRD,1.0,31.25,33.36,6,38.62,3,1.236,3,0.961,1.33,0.587,1.012,4.582,4.245

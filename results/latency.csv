@@ -1,0 +1,23 @@
+model,device,graph,seq_len,context,parts,ms,peak_mb,npu_pct,tok_s,published_tok_s,error_pct,bf16_tok_s_est,ttft_2048_s,asset_mb,qaihm,qairt,runtime,jobs
+Qwen3-0.6B,Samsung Galaxy S25 (Family),prompt_ar128,128,1024,2,18.528,48.2,100.0,,,,,0.296,1373.4,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j5wrjvljp jg9q61zqp
+Qwen3-0.6B,Samsung Galaxy S25 (Family),prompt_ar128,128,2048,2,25.018,121.6,100.0,,,,,0.4,1373.4,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jgkwlknyg jp081xq25
+Qwen3-0.6B,Samsung Galaxy S25 (Family),token_ar1,1,1024,2,10.307,53.1,100.0,97.02,,,117.2,,1373.4,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jg9q61zvp jp1mrlnkp
+Qwen3-0.6B,Samsung Galaxy S25 (Family),token_ar1,1,2048,2,14.992,124.0,100.0,66.7,,,80.58,,1373.4,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j5qx7dk7p jp8d3k9z5
+Qwen3-0.6B,Samsung Galaxy S26 (Family),prompt_ar128,128,2048,2,19.551,125.6,100.0,,,,,0.313,1375.6,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j5w0dv2zp jpe0r1e7g
+Qwen3-0.6B,Samsung Galaxy S26 (Family),token_ar1,1,2048,2,12.716,132.9,100.0,78.64,,,95.15,,1375.6,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jg9731jq5 jgzqx9ozg
+Qwen3-0.6B,Snapdragon X Elite CRD,prompt_ar128,128,2048,2,42.684,105.5,100.0,,,,,0.683,1374.3,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jprm4j99g j5m1wy4w5
+Qwen3-0.6B,Snapdragon X Elite CRD,token_ar1,1,2048,2,24.668,111.8,100.0,40.54,,,49.01,,1374.3,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jp2q7nj4p jgnd98xrp
+Qwen3-0.6B,Snapdragon X Plus 8-Core CRD,prompt_ar128,128,2048,2,42.131,105.5,100.0,,,,,0.674,687.1,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j5w0mxw3p jpe042oog
+Qwen3-0.6B,Snapdragon X Plus 8-Core CRD,token_ar1,1,2048,2,23.469,111.8,100.0,42.61,,,25.75,,687.1,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jg97980w5 jgzqvw2og
+Qwen3-1.7B,Samsung Galaxy S25 (Family),prompt_ar4,4,1024,4,18.484,73.2,100.0,,,,,,3208.5,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j5wrom4mp jg9qv9dwp jpen94yop jgo9ye4qg
+Qwen3-1.7B,Samsung Galaxy S25 (Family),prompt_ar128,128,1024,4,28.434,97.6,100.0,,,,,0.455,3208.5,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jgdmw72rg j5wrom43p jgj8xkqv5 jp3rkqw3p
+Qwen3-1.7B,Samsung Galaxy S25 (Family),prompt_ar128,128,2048,4,36.249,120.7,100.0,,,,,0.58,3208.5,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jpe0rqq8g jgo71xx15 j5qx7nnep jp8d3nnq5
+Qwen3-1.7B,Samsung Galaxy S25 (Family),token_ar1,1,1024,4,18.47,48.7,100.0,54.14,36.0,50.4,52.93,,3208.5,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jg9qv9d8p jp1m0q68p jgz0evno5 jpvn3z7kg
+Qwen3-1.7B,Samsung Galaxy S25 (Family),token_ar1,1,2048,4,22.588,150.6,100.0,44.27,36.0,23.0,43.28,,3208.5,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jgzqx664g jgj60991p j5693xxn5 jgkwl11vg
+Qwen3-1.7B,Samsung Galaxy S26 (Family),prompt_ar128,128,2048,4,30.149,137.0,100.0,,,,,0.482,3211.2,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j571jwov5 jg9731ow5 jgzqx9zog jgj60m3vp
+Qwen3-1.7B,Samsung Galaxy S26 (Family),token_ar1,1,2048,4,20.709,149.1,100.0,48.29,39.9,21.0,47.25,,3211.2,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jp46xoe85 jgdyr96rg j5w0dvy3p jpe0r16og
+Qwen3-1.7B,Snapdragon X Elite CRD,prompt_ar128,128,2048,4,61.675,108.4,100.0,,,,,0.987,1604.8,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jp1kq2n2g jpe04oz1g jp3lqn9lp jgl9e4x8g
+Qwen3-1.7B,Snapdragon X Elite CRD,token_ar1,1,2048,4,32.878,112.3,100.0,30.42,31.5,-3.4,14.88,,1604.8,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jgdy7ndeg jg9790zl5 jgo7ezrx5 j569q2705
+Qwen3-1.7B,Snapdragon X Plus 8-Core CRD,prompt_ar4,4,2048,4,32.09,112.3,100.0,,,,,,1611.7,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jgdy70zkg j5w0mx1zp jgj6k1w7p jp3lq8wxp
+Qwen3-1.7B,Snapdragon X Plus 8-Core CRD,prompt_ar128,128,2048,4,58.206,108.4,100.0,,,,,0.931,1611.7,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,jp1kq3vkg jgzqvw4zg jpvyz497p j569qvdv5
+Qwen3-1.7B,Snapdragon X Plus 8-Core CRD,token_ar1,1,2048,4,31.998,112.4,100.0,31.25,,,15.35,,1611.7,0.67.0,QAIRT v2.51 | 2.51.0.260929181845,geniex_qairt,j571v67q5 jg9798xq5 jpe042l7g jgo7em445
